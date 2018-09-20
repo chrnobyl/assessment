@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  breed_type: MyString
+  breed_1: MyString
+  breed_2: MyString
+  sex: MyString
+  sterile: false
+  birth_date: MyString
+  temperment: MyString
+  weight: 1
+  size: MyString
+  food: MyString
+  protein: MyString
+  allergies: MyString
+
+two:
+  name: MyString
+  breed_type: MyString
+  breed_1: MyString
+  breed_2: MyString
+  sex: MyString
+  sterile: false
+  birth_date: MyString
+  temperment: MyString
+  weight: 1
+  size: MyString
+  food: MyString
+  protein: MyString
+  allergies: MyString
