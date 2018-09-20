@@ -30,7 +30,7 @@ export default class Adapter {
           sterile: pet.sterile,
           birth_date: pet.birthDate,
           temperament: pet.temperament,
-          weight: parseInt(pet.weight),
+          weight: parseInt(pet.weight, 10),
           size: pet.size,
           allergies: pet.allergies
         },

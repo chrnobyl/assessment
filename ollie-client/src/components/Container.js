@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Form, Button, Input } from 'semantic-ui-react'
+import { Form, Button } from 'semantic-ui-react'
 import Adapter from '../adapters/Adapter'
 
 export default class Container extends Component {
